@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JodySuryo12
+- 👋 Hi, I’m @JSA
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning security it
 - 💞️ I’m looking to collaborate on ...
